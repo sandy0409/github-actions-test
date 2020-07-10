@@ -1,6 +1,6 @@
-name: Shell Commands
+name: Shell testing of workflow
 
-on: [pull_request]
+on: [push]
 
 jobs:
   run-shell-command:
