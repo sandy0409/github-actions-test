@@ -6,7 +6,7 @@ jobs:
   run-github-actions: 
     runs-on: ubuntu-latest
     steps: 
-      - name: Simple JS Action
+      - name: Simple JS Actions
         id: greet 
         uses: actions/hello-world-javascript-action@v1
         with: 
