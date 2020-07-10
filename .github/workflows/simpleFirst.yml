@@ -1,4 +1,4 @@
-name: Shell testing of workflow
+name: Shell testing of workflows
 
 on: [push]
 
